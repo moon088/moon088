@@ -1,21 +1,24 @@
 # Hello, I'm NAOYA YOKOMIZO! 👋
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moon088&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-</p>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon088&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
+  <div style="flex: 1; min-width: 48%;">
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moon088&show_icons=true&theme=radical)
+  </div>
 
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=radical" alt="GitHub Profile Summary Cards" width="48%">
-</p>
+  <div style="flex: 1; min-width: 48%;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon088&layout=compact&theme=radical)
+  </div>
 
-<p align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=radical" alt="GitHub Streak Stats" width="48%">
-</p>
+  <div style="flex: 1; min-width: 48%;">
+    ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=radical)
+  </div>
 
+  <div style="flex: 1; min-width: 48%;">
+    ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=radical)
+  </div>
+
+</div>
 
 <!--
 **moon088/moon088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
