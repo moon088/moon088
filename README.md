@@ -5,7 +5,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon088&theme=tokyonight) ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=moon088&theme=tokyonight)
 
 ## Language and Tools
 <p align="center">
