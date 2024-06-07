@@ -7,13 +7,7 @@
 
 
 ## Language and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,pytorch,tensorflow,sklearn,django,java,c" />
-  </a>
-</p>
-
-
+<img src="https://skillicons.dev/icons?i=py,mysql,pytorch,tensorflow,sklearn,django,java,c" />
 
 
 
