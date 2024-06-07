@@ -1,14 +1,17 @@
-# Hello, I'm NAOYA YOKOMIZO 👋
-## Profile Summary Cards 
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=vue&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+# Hello, I'm NAOYA YOKOMIZO! 👋
 
-## GitHub Stats and Top Languages
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moon088&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon088&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=tokyonight)
 
-## GitHub Streak Stats
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=radical)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon088&theme=tokyonight) ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=radical)
+
+
+## Language and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,pytorch,tensorflow,sklearn,django,java,c" />
+  </a>
+</p>
 
 
 
