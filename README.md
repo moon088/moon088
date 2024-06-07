@@ -3,10 +3,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moon088&layout=compact&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=moon088&theme=react-dark)
-
 ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=vue)
 
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=radical)
 
 
 
