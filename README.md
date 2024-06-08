@@ -1,9 +1,10 @@
 # Hello, I'm NAOYA YOKOMIZO! 👋
 ## Myprofile
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=Solarized Light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=solarized_light)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon088&theme=Solarized Light) ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=Solarized Light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon088&theme=solarized_light) ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=solarized_light)
+
 
 
 
