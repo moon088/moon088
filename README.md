@@ -1,9 +1,9 @@
 # Hello, I'm NAOYA YOKOMIZO! 👋
 ## Myprofile
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moon088&theme=gruvbox)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon088&theme=vue)![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moon088&theme=gruvbox)![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=moon088&theme=gruvbox)
 
 
 
